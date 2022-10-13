@@ -1,5 +1,3 @@
-<img alt="banner" src="https://alexmartin.cloud/assets/images/blog/blog1/react-js-banner.png" height="230px" width="100%">
-
 <h1> Olá! Meu nome é Bruno Peres!</h1>
 
 - 🔥 Desenvolvedor Front-end
