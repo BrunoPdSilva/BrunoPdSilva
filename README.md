@@ -2,8 +2,6 @@
 
 - 🔥 Desenvolvedor Front-end
 
-- :bicyclist: Ciclista 
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção ]()
 
 <br>
