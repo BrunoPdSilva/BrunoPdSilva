@@ -1,6 +1,6 @@
 <h1> Olá! Meu nome é Bruno Peres!</h1>
 
-- 🔥 Estudante Front-end e Back-end
+- 🔥 Desenvolvedor Front-end
 
 - :bicyclist: Ciclista 
 
