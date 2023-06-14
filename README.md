@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor Front-end
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção ]()
+- 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portfólio em construção ]()
 
 <br>
 
@@ -30,20 +30,19 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ## 📈 GitHub Analytics
 
-<p align="left"> 
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=BrunoPdSilva&show_icons=true&theme=algolia" alt="Bruno Peres stats"/>
-</p>
-  
-<p align="left"> 
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPdSilva&layout=compact&theme=algolia" alt="Bruno Peres stats"/>
-</p>
+<div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrunoPdSilva&show_icons=true&theme=algolia" alt="Bruno Peres stats"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPdSilva&layout=compact&theme=algolia" alt="Bruno Peres stats"/>
+</div>
 
-<p align="left"> <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoPdSilva&show_icons=true&theme=algolia" alt="Bruno Peres stats" /></p>
+
+
+
 
 <br>
 
 ## 🌐 Social Links
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-peres-da-silva-918091178/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-peres-da-silva-918091178/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunopd_silva/)
 
 
