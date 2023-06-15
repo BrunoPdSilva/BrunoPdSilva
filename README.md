@@ -1,6 +1,6 @@
-# Olá, eu sou o Bruno Peres! 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+<h1>Olá, eu sou o Bruno Peres! 👋</h1>
 <strong>Desenvolvedor Fullstack em formação</strong>
 
 <p>
